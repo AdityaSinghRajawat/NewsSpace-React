@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Breaking Physics: Muon G-2 Experiment Reinforces Surprise Result, Setting Up “Ultimate Showdown” - SciTechDaily",
+            "description": "Findings at Fermilab show discrepancy between theory and experiment, which may lead to new physics beyond the Standard Model. Physicists now have a brand-new measurement of a property of the muon called the anomalous magnetic moment that improves the precisio…",
+            "url": "https://scitechdaily.com/breaking-physics-muon-g-2-experiment-reinforces-surprise-result-setting-up-ultimate-showdown/",
+            "urlToImage": "https://scitechdaily.com/images/Sub-Atomic-Particle-Quantum-Physics-Art-Illustration.jpg",
+            "publishedAt": "2023-08-13T15:33:40Z",
+            "content": "ByFermi National Accelerator LaboratoryAugust 13, 2023\r\nFermilabs Muon g-2 experiment has unveiled a new precision measurement of the muons magnetic property, hinting at undiscovered particles and a … [+10610 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Brent Lang",
+            "title": "Box Office: ‘The Last Voyage of the Demeter’ Flops With $6.5 Million, ‘Barbie’ Keeps Her Crown For 4th Weekend With $33.7 Million - Variety",
+            "description": "“The Last Voyage of the Demeter” sank without a trace over its opening weekend, going to a watery grave with just $6.5 million. The period horror film, which centers on one chapter of B…",
+            "url": "https://variety.com/2023/film/news/box-office-last-voyage-of-the-demeter-flops-opening-weekend-results-barbie-1235694927/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2023/08/MCDLAVO_UV028.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2023-08-13T15:23:00Z",
+            "content": "“The Last Voyage of the Demeter” sank without a trace over its opening weekend, going to a watery grave with just $6.5 million. The period horror film, which centers on one chapter of Bram Stoker’s “… [+2311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "David Smith",
+            "title": "‘People just want change’: political circus at Iowa state fair can’t dispel civic discontent - The Guardian US",
+            "description": "Presidential aspirants make the pilgrimage to Des Moines amid a sense of America as nation sunk in a political depression",
+            "url": "https://www.theguardian.com/us-news/2023/aug/13/iowa-state-fair-political-circus-trump-desantis-pence-ramaswamy-kennedy",
+            "urlToImage": "https://i.guim.co.uk/img/media/d2c60ae9989db45fccd44646f71e4b1dae8445b1/0_54_3746_2249/master/3746.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f252d83f9cac16f277728c23d7de17e",
+            "publishedAt": "2023-08-13T15:11:00Z",
+            "content": "Donald Trump held aloft a pork chop on a stick. Ron DeSantis and children rode bumper cars and a ferris wheel, played carnival games and ate snow cones and ice-cream. Vivek Ramaswamy rapped Lose Your… [+10379 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Jey Uso lays out Roman Reigns and his brother Jimmy - WWE",
+            "description": "After spearing Roman Reigns, Jey Uso superkicks his brother Jimmy for good measure.Stream WWE on Peacock https://pck.tv/3ZTjVE7 in the U.S. and on WWE Networ...",
+            "url": "https://www.youtube.com/watch?v=HQdV5u1Q8dQ",
+            "urlToImage": "https://i.ytimg.com/vi/HQdV5u1Q8dQ/maxresdefault.jpg",
+            "publishedAt": "2023-08-13T15:00:13Z",
+            "content": null
+        }
+    ]
+}
